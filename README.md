@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 -   instagram :[swasthik_17](https://www.instagram.com/swasthik_17?igsh=MWl3a2cxZHRsNmVrYg==)
--   Linkedin : [swasthik devadiga] (www.linkedin.com/in/swasthik-devadiga-92a348265)
+-   Linkedin : [swasthik_devadiga](www.linkedin.com/in/swasthik-devadiga-92a348265)
 - 
 - 😄 Pronouns: Swasthik
   
