@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swasthikdevadiga1
+- 👋 Hi, I’m Swasthik Devadiga
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Web Development and data Science
 - 💞️ I’m looking to collaborate on ...
