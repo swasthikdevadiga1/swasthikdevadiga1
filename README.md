@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Swasthik Devadiga
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m interested in Full Stack Development and Data Science
 - 🌱 I’m currently learning Web Development and data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
