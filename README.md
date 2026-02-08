@@ -1,4 +1,5 @@
 Hi, I’m Swasthik Devadiga
+
 I’m interested in Full Stack Development and Data Science
 
 📫 How to reach me:
